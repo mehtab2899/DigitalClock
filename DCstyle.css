@@ -1,0 +1,17 @@
+#clock1{
+    width: 200px;
+    background: black;
+    height: 80px;
+    padding-top: 30px;
+    color: white;
+    padding-left: 20px;
+    border: 2px solid green;
+    border-radius: 100px;
+    margin: 0 auto;
+}
+
+#clock1:hover{
+    background: yellow;
+    border: 3px solid grey;
+    color: black;
+}
